@@ -7,8 +7,8 @@
     <ProjectGuid>{BC5550D3-ACC3-44F6-9CC1-92C051A25D17}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnityAutoMoqFixture</RootNamespace>
-    <AssemblyName>UnityAutoMoqFixture</AssemblyName>
+    <RootNamespace>AutoIsolator</RootNamespace>
+    <AssemblyName>AutoIsolator</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
